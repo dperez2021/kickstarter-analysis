@@ -1,3 +1,4 @@
+
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -16,12 +17,15 @@ To determine the best window for launching a theater fundraising campaign is to 
 
 When you refer to the line chart below the month of December may stand out as the worst month to launch a fundraising campaign due to the lowest all-time campaigns conducted, successful, and failed.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88256967/130324124-e8d6448f-e2d5-467b-8b7b-23afaa715170.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Campaigns require donations from backers to be pledged towards the goal in order to determine the rate of success a campaign had. Based on the analysis campaign goals that are less than $20,000 have an estimated 50% chance of being successful. This point also show’s that the lower the goal the higher rate of success, and the higher the goal the higher rate of failure.
 
 The chart below was created to visualize the outcomes by goal in the subcategory of theater plays. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88256967/130324134-36ee95fd-9fd0-45d6-b62e-5074bc2adedd.png)
 
 
 ### Challenges and Difficulties Encountered
